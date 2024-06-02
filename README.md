@@ -7,7 +7,8 @@
 <br/>
 
 <div align="center">
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm based in Vietnamese
+    
  🔭 I graduated from Ho Chi Minh City University of Industry with GPA 3.2+
 </div>
 
