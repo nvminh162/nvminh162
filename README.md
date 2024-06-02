@@ -22,9 +22,9 @@
 
 <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
 <div align="center">
-<a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.fiverr.com/thanh_tin?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.freelancer.com/u/TinTran11" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.peopleperhour.com/freelancer/tin-tran-front-end-developer-zaxjymzw" target="_blank" rel="noreferrer"><img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" /></a>
 </div>
 
