@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=437&lines=Hello+there!++%F0%9F%91%8B;I'm+Van+Minh!+(VN);I'm+Paul+Nguyen!+(US);From+Van+Minh+with+Love++%E2%9D%A4" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+<h3 align="center">I'm a Web, Mobile Back-end Developer and UI/UX designer</h3>
 
 <br/>
 
@@ -10,23 +10,9 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🔭 I graduated from Ho Chi Minh City University of Industry with GPA 3.2+
  
  </div>
-
-<div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
 <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
 <div align="center">
