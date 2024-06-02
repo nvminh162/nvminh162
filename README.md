@@ -67,7 +67,7 @@
 <hr/>
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=nvminh162&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nvminh162&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nvminh162&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
