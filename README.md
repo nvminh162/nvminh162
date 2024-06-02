@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=F70F0F&center=true&vCenter=true&random=false&width=437&lines=Hello+there!++%F0%9F%91%8B;I'm+Van+Minh!+(VN);I'm+Paul+Nguyen!+(US);From+Van+Minh+with+Love++%E2%9D%A4"/>
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
