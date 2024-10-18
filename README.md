@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/nvminh162/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://nvminh162.github.io/profile_nvminh162/" target="_blank">
+  <a href="https://nvminh162.github.io/MyProfile_nvminh162_HTML-CSS-JS/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
