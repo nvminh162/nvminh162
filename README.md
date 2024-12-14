@@ -99,4 +99,4 @@
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nvminh162)
 
-<img src="https://t.bkit.co/w_675d5b8b80482.gif" />
+[![HitCount](https://hits.dwyl.com/nvminh162/nvminh162.svg?style=flat-square)](http://hits.dwyl.com/nvminh162/nvminh162)
