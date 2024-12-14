@@ -25,9 +25,6 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=nvminh162&label=GITHUB+PROFILE+VIEWS+COUNTER&color=ff69b4&style=for-the-badge)
-<!-- /antonkomarev/github-profile-views-counter -->
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nvminh162) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvminh162)
@@ -49,6 +46,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=nvminh162&label=GITHUB+PROFILE+VIEWS+COUNTER&color=ff69b4&style=for-the-badge)
+<!-- /antonkomarev/github-profile-views-counter -->
 
 <h2 align="center">:money_with_wings: Freelancer Platform :money_with_wings:</h2>
 <div align="center">
