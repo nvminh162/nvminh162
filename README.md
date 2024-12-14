@@ -13,7 +13,8 @@
  
 </div>
 
-[![Visitors Count](https://hits.dwyl.com/nvminh162/nvminh162.svg?style=flat-square)](http://hits.dwyl.com/nvminh162/nvminh162)
+![](https://komarev.com/ghpvc/?username=nvminh162&label=GITHUB+PROFILE+VIEWS+COUNTER&color=ff69b4&style=for-the-badge)
+<!-- /antonkomarev/github-profile-views-counter -->
 
 <div align="center"> 
   <a href="mailto:nvminh162@gmail.com">
