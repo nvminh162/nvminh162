@@ -45,9 +45,6 @@
     <img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" />
   </a>
   <a href="#" target="_blank" rel="noreferrer" style="pointer-events: none;">
-    <img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer" style="pointer-events: none;">
     <img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" />
   </a>
 </div>
