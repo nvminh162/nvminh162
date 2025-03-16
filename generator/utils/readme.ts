@@ -44,7 +44,40 @@ export async function generateReadmeMarkdownFile({
 	const getImgWidth = (width: number) => `${(width / imageWidth) * 100}%`;
 
 	const readmeFooter = outdent({ trimLeadingNewline: false })`
-		###### 👆 The above image is interactive! Try clicking on the tabs :)
+		# Visitor:
+		<div>
+		
+		![](https://komarev.com/ghpvc/?username=nvminh162&label=VISITOR+VIEWS+COUNT&color=ff69b4&style=for-the-badge) 
+		<!-- buff -> &base=1000 -->
+		<!-- /antonkomarev/github-profile-views-counter -->
+
+		</div>
+
+		# Contributed:
+
+		<div align="center">
+
+		![](https://github-contributor-stats.vercel.app/api?username=nvminh162&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+		</div>
+
+		# Quote:
+
+		<div align="center">
+
+		![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+		</div>
+
+		<div align="center">
+		<img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+		</div>
+
+		<h3 align="center">
+			<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+		</h3>
+
+		<!-- written by @nvminh162 -->
 	`;
 
 	const readme = zip(lightModeImagePieces, darkModeImagePieces).map(
