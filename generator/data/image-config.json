@@ -1,0 +1,169 @@
+{
+	"rows": [
+		{
+			"bottomY": 39,
+			"links": [
+				{
+					"leftX": 21,
+					"rightX": 33,
+					"href": "#js-contribution-activity"
+				},
+				{
+					"leftX": 41,
+					"rightX": 53,
+					"href": "#-the-above-image-is-interactive-try-clicking-on-the-tabs-"
+				},
+				{
+					"leftX": 61,
+					"rightX": 73,
+					"href": "https://github.com/nvminh162/nvminh162/blob/main/readme.markdown"
+				},
+				{
+					"leftX": 92,
+					"rightX": 214,
+					"href": "https://nvminh162.com"
+				},
+				{
+					"leftX": 214,
+					"rightX": 336,
+					"href": "https://tiktok.com/@nvminh162"
+				},
+				{
+					"leftX": 346,
+					"rightX": 472,
+					"href": "https://instagram.com/nvminh162"
+				},
+				{
+					"leftX": 474,
+					"rightX": 599,
+					"href": "https://x.com/nvminh1602"
+				},
+				{
+					"leftX": 601,
+					"rightX": 726,
+					"href": "https://youtube.com/@nvminh162"
+				},
+				{
+					"leftX": 732,
+					"rightX": 762,
+					"href": "https://github.com/nvminh162/nvminh162/issues/new"
+				},
+				{
+					"leftX": 812,
+					"rightX": 840,
+					"href": "https://github.com/nvminh162/nvminh162/tree/main/generator"
+				}
+			]
+		},
+		{
+			"bottomY": 79,
+			"links": [
+				{
+					"leftX": 75,
+					"rightX": 88,
+					"href": "https://github.com/nvminh162"
+				},
+				{
+					"leftX": 104,
+					"rightX": 840,
+					"href": "https://nvminh162.com"
+				}
+			]
+		},
+		{
+			"bottomY": 202,
+			"links": []
+		},
+		{
+			"bottomY": 244,
+			"links": [
+				{
+					"leftX": 173,
+					"rightX": 307,
+					"href": "https://linkedin.com/in/nvminh162"
+				},
+				{
+					"leftX": 365,
+					"rightX": 480,
+					"href": "https://devpost.com/nvminh162"
+				},
+				{
+					"leftX": 538,
+					"rightX": 672,
+					"href": "https://socialblade.com/search/search?query=nvminh162"
+				}
+			]
+		},
+		{
+			"bottomY": 282,
+			"links": [
+				{
+					"leftX": 142,
+					"rightX": 511,
+					"href": "https://github.com/nvminh162/nvminh162/blob/main/README.md#nvminh162"
+				},
+				{
+					"leftX": 540,
+					"rightX": 704,
+					"href": "${LATEST_CONTENT_URL}"
+				}
+			]
+		},
+		{
+			"bottomY": 518,
+			"links": [
+				{
+					"leftX": 142,
+					"rightX": 511,
+					"href": "https://github.com/nvminh162/nvminh162/blob/main/README.md#nvminh162",
+					"imgSrc": "${README_MD_SRC}"
+				},
+				{
+					"leftX": 540,
+					"rightX": 704,
+					"href": "${LATEST_CONTENT_URL}"
+				}
+			]
+		},
+		{
+			"bottomY": 588,
+			"links": [
+				{
+					"leftX": 297,
+					"rightX": 338,
+					"href": "https://nvminh162.dev"
+				},
+				{
+					"leftX": 338,
+					"rightX": 381,
+					"href": "https://github.com/nvminh162/nvminh162/issues/new"
+				},
+				{
+					"leftX": 381,
+					"rightX": 420,
+					"href": "https://github.com/nvminh162"
+				},
+				{
+					"leftX": 426,
+					"rightX": 465,
+					"href": "https://github.com/nvminh162"
+				},
+				{
+					"leftX": 465,
+					"rightX": 507,
+					"href": "https://discord.gg"
+				},
+				{
+					"leftX": 507,
+					"rightX": 549,
+					"href": "https://www.youtube.com/@nvminh162"
+				},
+				{
+					"leftX": 549,
+					"rightX": 704,
+					"href": "${LATEST_CONTENT_URL}"
+				}
+			]
+		}
+	]
+}
