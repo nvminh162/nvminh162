@@ -1,4 +1,4 @@
-# @leonsilicon's README Generator
+# @nvminh162's README Generator
 
 This folder contains the code and assets that are used to generate my profile README.
 
