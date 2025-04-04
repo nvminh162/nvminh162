@@ -24,7 +24,8 @@
 </div>
 </details>
 
-<h2>Quotes</h2>
+<details>
+<summary><h2>Quotes</h2></summary> 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -34,9 +35,10 @@
 <div align="center">
 	<img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </div>
+</details>
 
 <h3 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Sho+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Sho+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <!-- written by @nvminh162 -->
