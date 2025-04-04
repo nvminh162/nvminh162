@@ -23,7 +23,7 @@
   </div>
 </details>
 
-<summary><h2>Quotes</h2></summary> 
+<h2>Quotes</h2>
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
