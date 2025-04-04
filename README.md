@@ -10,5 +10,5 @@ never thought i'd be posting regularly on social media but my friends said i'd b
 
 [Tiktok](https://tiktok.com/@nvminh162)\
 [Instagram](https://instagram.com/nvminh162)\
-[Twitter](https://twitter.com/nvminh1602)\
+[X](https://x.com/nvminh16)\
 [Youtube](https://youtube.com/@nvminh162)
