@@ -44,6 +44,7 @@ export async function generateReadmeMarkdownFile({
 	const getImgWidth = (width: number) => `${(width / imageWidth) * 100}%`;
 
 	const readmeFooter = outdent({ trimLeadingNewline: false })`
+		</br>
 		![](https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4) 
 		![](https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black) 
 		![](https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black)
