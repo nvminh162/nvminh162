@@ -39,7 +39,7 @@ export async function generateImagePieces(
 			const { leftX, rightX, href: unparsedHref, imgSrc } = link;
 			const href = unparsedHref.replace(
 				'${LATEST_CONTENT_URL}',
-				'https://www.tiktok.com/@nvminh162',
+				'https://github.com/nvminh162/nvminh162/blob/main/generator/data/figma-exports/nvminh162-dark.png',
 			);
 
 			// If this image link is not directly next to the previous image link,

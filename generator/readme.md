@@ -16,6 +16,9 @@ If you want to copy the Chrome-style profile but just modify the text and images
 - [`./data/image-config.json`](./data/image-config.json): The configuration stored as a JSON file which specifies the sections of the image which open up a link when clicked
 - [`./scripts/generate-readme.ts`](./scripts/generate-readme.ts): The entrypoint to code which generates the `readme.markdown` file
 
+## Figma:
+https://www.figma.com/design/mAhC9aWFjHdDYeIrQPLAFb/nvminh162?node-id=0-1&t=xzfYMIS53e8MQHTb-1
+
 ## How to run
 
 ```
