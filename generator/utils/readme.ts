@@ -44,9 +44,12 @@ export async function generateReadmeMarkdownFile({
 	const getImgWidth = (width: number) => `${(width / imageWidth) * 100}%`;
 
 	const readmeFooter = outdent({ trimLeadingNewline: false })`
-		![](https://komarev.com/ghpvc/?username=nvminh162&label=VISITOR+VIEWS+COUNT&color=ff69b4&style=for-the-badge) 
-		<!-- buff -> &base=1000 -->
-		<!-- /antonkomarev/github-profile-views-counter -->
+		# Statistical
+		
+		![](https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4) 
+		![](https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black) 
+		![](https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black)
+		<!-- /antonkomarev/github-profile-views-counter --> <!-- buff -> &base=1000 -->
 
 		# Contributed:
 
