@@ -63,7 +63,6 @@ export async function generateReadmeMarkdownFile({
 		<div align="center">
 			<img src="https://github-readme-stats.vercel.app/api?username=nvminh162&show_icons=true&theme=dracula" alt="Githubstat" title="GithubStat" height="192px"/>
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvminh162&layout=compact&theme=dracula" alt="TopLanguages" title="TopLanguages" height="192px"/>
-			<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nvminh162&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 			<img src="https://github-readme-activity-graph.vercel.app/graph?username=nvminh162&theme=dracula" alt="activityContribution" title="activityContribution"/>
 			<img src="https://github-profile-trophy.vercel.app/?username=nvminh162&theme=dracula" alt="trophyProfileGithub" title="trophyProfileGithub"/>
 		</div>
