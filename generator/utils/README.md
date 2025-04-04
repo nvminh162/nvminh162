@@ -1,3 +1,4 @@
+###
 ![](https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4) 
 ![](https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black) 
 ![](https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black)
@@ -16,12 +17,13 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nvminh162&show_icons=true&theme=dracula" alt="Githubstat" title="GithubStat" height="192px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvminh162&layout=compact&theme=dracula" alt="TopLanguages" title="TopLanguages" height="192px"/>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nvminh162&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+    <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nvminh162&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvminh162&theme=dracula" alt="activityContribution" title="activityContribution"/>
     <img src="https://github-profile-trophy.vercel.app/?username=nvminh162&theme=dracula" alt="trophyProfileGithub" title="trophyProfileGithub"/>
   </div>
 </details>
 
+<summary><h2>Quotes</h2></summary> 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
