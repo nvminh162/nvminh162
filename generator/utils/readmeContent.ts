@@ -2,12 +2,15 @@ import { outdent } from 'outdent';
 
 export const readmeHeader = outdent({ trimLeadingNewline: false })`
 <h3 align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+there,+I'm Nguyen Van Minh;+Click+to+see+details+about+me">
+
 </h3>
 `;	
 
 export const readmeFooter = outdent({ trimLeadingNewline: false })`
-#
+
+###
 
 <div align="center">
 
@@ -84,5 +87,6 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+">
 </h3>
 
-#
+###
+
 `;
