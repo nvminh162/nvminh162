@@ -1,47 +1,7 @@
 <!-- Header -->
-# Hi, I'm Nguyen Van Minh 👋  
 
-I'm a **Fullstack Developer** specializing in **Java (Spring Boot)** and **JavaScript/TypeScript (Node.js, NestJS, React, Next.js)**.  
-I build scalable, high-performance web applications and love diving into **backend architecture, cloud solutions, and modern frontend development**.  
 
-## 🔥 Tech Stack  
-
-### 🖥 Backend  
-- **Java:** Spring Boot, Spring Security, Spring Data JPA, Hibernate  
-- **Node.js:** NestJS, Express.js, Fastify  
-- **API:** RESTful, GraphQL, gRPC  
-- **Authentication & Security:** JWT, OAuth2, Passport.js, Keycloak  
-
-### 🎨 Frontend  
-- **Core:** ReactJS, Next.js  
-- **State Management:** Redux Toolkit, Zustand, React Query  
-- **Styling:** SCSS, Tailwind CSS, Material UI, Ant Design  
-- **SSR & SSG:** Next.js (getServerSideProps, getStaticProps)  
-- **Bundlers:** Vite, Webpack, SWC  
-
-### 🗄 Databases & ORM  
-- **SQL:** PostgreSQL, MySQL, MariaDB  
-- **NoSQL:** MongoDB, Redis, Firebase Firestore  
-- **ORM & Query Builders:** Hibernate, TypeORM, Prisma, Knex.js  
-
-### ☁ DevOps & Cloud  
-- **Containerization:** Docker, Kubernetes  
-- **Cloud Providers:** AWS (EC2, S3, Lambda, RDS), DigitalOcean, Firebase  
-- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins  
-
-### 📡 Messaging & Realtime  
-- **Message Brokers:** RabbitMQ, Apache Kafka  
-- **WebSockets:** Socket.IO, WebRTC  
-- **Event-Driven Architecture:** CQRS, Event Sourcing  
-
-## 📫 Let's Connect  
-- **GitHub:** [your-github-link]  
-- **LinkedIn:** [your-linkedin-link]  
-- **Portfolio:** [your-portfolio-link]  
-
-🚀 Always open to collaborating on exciting projects and contributing to open-source!  
 <!-- Markdown content here -->
-
 
 <!-- Footer -->
 <div align="center">
@@ -53,10 +13,42 @@ I build scalable, high-performance web applications and love diving into **backe
 </div>
 
 <details>
-  <summary><h2>My Skill</h2></summary> 
-  <div align="center">
-    Updating ...
-  </div>
+  <summary><h2>Tech Stack</h2></summary> 
+  ### 🖥 Backend  
+  - **Java:** Spring Boot, Spring Security, Spring Data JPA, Hibernate  
+  - **Node.js:** NestJS, Express.js, Fastify  
+  - **API:** RESTful, GraphQL, gRPC  
+  - **Authentication & Security:** JWT, OAuth2, Passport.js, Keycloak  
+
+  ### 🎨 Frontend  
+  - **Core:** ReactJS, Next.js  
+  - **State Management:** Redux Toolkit, Zustand, React Query  
+  - **Styling:** SCSS, Tailwind CSS, Material UI, Ant Design  
+  - **SSR & SSG:** Next.js (getServerSideProps, getStaticProps)  
+  - **Bundlers:** Vite, Webpack, SWC  
+
+  ### 🗄 Databases & ORM  
+  - **SQL:** PostgreSQL, MySQL, MariaDB  
+  - **NoSQL:** MongoDB, Redis, Firebase Firestore  
+  - **ORM & Query Builders:** Hibernate, TypeORM, Prisma, Knex.js  
+
+  ### ☁ DevOps & Cloud  
+  - **Containerization:** Docker, Kubernetes  
+  - **Cloud Providers:** AWS (EC2, S3, Lambda, RDS), DigitalOcean, Firebase  
+  - **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins  
+
+  ### 📡 Messaging & Realtime  
+  - **Message Brokers:** RabbitMQ, Apache Kafka  
+  - **WebSockets:** Socket.IO, WebRTC  
+  - **Event-Driven Architecture:** CQRS, Event Sourcing
+</details>
+
+<details>
+  <summary><h2>Let's Connect</h2></summary>
+
+  - **GitHub:** [your-github-link]  
+  - **LinkedIn:** [your-linkedin-link]  
+  - **Portfolio:** [your-portfolio-link]
 </details>
 
 <details>
@@ -67,7 +59,6 @@ I build scalable, high-performance web applications and love diving into **backe
     <img src="https://streak-stats.demolab.com?user=nvminh162&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHubStreak" title="activityContribution"/>
     <img src="https://github-profile-trophy.vercel.app/?username=nvminh162&row=1&column=9&theme=dracula" title="trophyProfileGithub"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvminh162&theme=dracula" alt="activityContribution" title="activityContribution"/>
-    
   </div>
 </details>
 
