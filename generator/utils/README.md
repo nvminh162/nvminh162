@@ -1,8 +1,6 @@
 <!-- Header -->
 <h3 align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+there,+I'm Nguyen Van Minh;+Click+to+see+details+about+me">
-
 </h3>
 
 <!-- Markdown content here -->
