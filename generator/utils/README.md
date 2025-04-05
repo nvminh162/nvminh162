@@ -1,9 +1,13 @@
 <!-- Header -->
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+there,+I'm Nguyen Van Minh;+Click+to+see+details+about+me">
+</h3>
 
 <!-- Markdown content here -->
 
 <!-- Footer -->
+#
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4) 
@@ -14,6 +18,7 @@
 
 <details>
   <summary><h2>Tech Stack</h2></summary> 
+
   ### 🖥 Backend  
   - **Java:** Spring Boot, Spring Security, Spring Data JPA, Hibernate  
   - **Node.js:** NestJS, Express.js, Fastify  
@@ -46,9 +51,8 @@
 <details>
   <summary><h2>Let's Connect</h2></summary>
 
-  - **GitHub:** [your-github-link]  
-  - **LinkedIn:** [your-linkedin-link]  
-  - **Portfolio:** [your-portfolio-link]
+  - **LinkedIn:** 
+  - **Portfolio:** 
 </details>
 
 <details>
@@ -76,7 +80,8 @@
 </details>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+">
 </h3>
 
+#
 <!-- written by @nvminh162 -->
