@@ -9,5 +9,9 @@ Shipping projects faster than my coffee gets cold.
 
 Currently chasing bugs, dreams, and dopamine hits from passing test cases.  
 Sometimes I tweet, sometimes I deploy at 2am.  
-
 Let's build cool things together ✨  
+
+# Fun fact:
+
+If I’m not coding, I’m probably daydreaming about new projects or figuring out why the last one didn't go as planned. The path to perfection is paved with failed deploys and successful recovery.
+Also, I believe every great project starts with a bit of chaos—and a lot of caffeine. ☕ Let’s embrace the madness and create something amazing!
