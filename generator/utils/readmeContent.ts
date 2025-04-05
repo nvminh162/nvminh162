@@ -1,8 +1,9 @@
 import { outdent } from 'outdent';
 
 export const readmeHeader = outdent({ trimLeadingNewline: false })`
+    
     ###
-    ###
+
     `;	
 
 export const readmeFooter = outdent({ trimLeadingNewline: false })`

@@ -1,14 +1,13 @@
-# @nvminh162
+# Hi, I'm nvminh162 👋
 
-delusional hacker-founder\
-world's fastest coder (probably not actually, but it makes for a catchy tagline :)\
+Delusional developer-founder.  
+I build fullstack apps using Java Spring Boot, Node.js, NestJS, React, and Next.js.  
+I enjoy crafting fast, scalable systems with clean code and a bit of chaos.  
+Lover of cloud tech, backend logic, and the occasional frontend polish.  
+Exploring new stacks, optimizing old ones.  
+Shipping projects faster than my coffee gets cold.  
 
-## dev stuff
+Currently chasing bugs, dreams, and dopamine hits from passing test cases.  
+Sometimes I tweet, sometimes I deploy at 2am.  
 
-## socials
-never thought i'd be posting regularly on social media but my friends said i'd be a great content creator and turns out they might've been right 😅
-
-[Tiktok](https://tiktok.com/@nvminh162)\
-[Instagram](https://instagram.com/nvminh162)\
-[X](https://x.com/nvminh16)\
-[Youtube](https://youtube.com/@nvminh162)
+Let's build cool things together ✨  
