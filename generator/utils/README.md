@@ -23,7 +23,7 @@
 <details>
   <summary>
     <h2>
-      <img src="https://github.com/nvminh162/nvminh162/tree/main/generator/utils/resources/Programming_Languages.gif" width="30" height="30" style="margin-right: 10px;">
+      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/Programming_Languages.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
       TechStack
     </h2>
   </summary>
@@ -65,7 +65,7 @@
 <details>
   <summary>
     <h2>
-      <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/handshake.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
       Connect
     </h2>
   </summary>
@@ -85,14 +85,13 @@
     <tr border="none">
       <!-- Stats 1 -->
       <td width="50%" align="center">
+        </br>
         <img src="https://streak-stats.demolab.com?user=nvminh162&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHubStreak" title="activityContribution"/>
-        </br>
         <img src="https://github-readme-stats.vercel.app/api?username=nvminh162&show_icons=true&theme=dracula" alt="Githubstat" title="GithubStat" height="192px"/>
-        </br>
       </td>
       <!-- Stats 2 -->
       <td width="50%" align="center">
-          <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nvminh162&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+          <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nvminh162&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
       </td>
     </tr>
   </table>
@@ -100,6 +99,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nvminh162&row=1&column=9&theme=dracula" title="trophyProfileGithub"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvminh162&theme=dracula" alt="activityContribution" title="activityContribution"/>
   </div>
+</details>
+
+<details>
+  <summary>
+    <h2>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;">
+      Projects
+    </h2>
+  </summary>
+  <div align="center">Updating ...</div>
 </details>
 
 <details>
@@ -115,7 +124,7 @@
   </div>
 
   <div align="center">
-      <img src="https://github.com/nvminh162/nvminh162/tree/main/generator/utils/resources/nvminh162_coding.gif" alt="nvminh162 coding" />
+      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162_coding.gif?raw=true" alt="nvminh162 coding" />
   </div>
 </details>
 
@@ -129,3 +138,4 @@
 ###
 
 <!-- written by @nvminh162 -->
+<!-- https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif -->
