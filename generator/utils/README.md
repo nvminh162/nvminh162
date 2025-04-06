@@ -9,16 +9,22 @@
 <!-- Markdown content here -->
 
 <!-- Footer -->
-
-###
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4)
-![](https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black)
-![](https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black)
-
+  ![](https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4)
+  ![](https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black)
+  ![](https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black)
 </div>
+
+<details>
+  <summary>
+    <h2>
+      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/about_me.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
+      About
+    </h2>
+  </summary>
+  <div align="center">Updating ...</div>
+</details>
 
 <details>
   <summary>
@@ -29,14 +35,12 @@
   </summary>
 
   ### 🖥 Backend
-
   - **Java:** Spring Boot, Spring Security, Spring Data JPA, Hibernate
   - **Node.js:** NestJS, Express.js, Fastify
   - **API:** RESTful, GraphQL, gRPC
   - **Authentication & Security:** JWT, OAuth2, Passport.js, Keycloak
 
   ### 🎨 Frontend
-
   - **Core:** ReactJS, Next.js
   - **State Management:** Redux Toolkit, Zustand, React Query
   - **Styling:** SCSS, Tailwind CSS, Material UI, Ant Design
@@ -44,19 +48,16 @@
   - **Bundlers:** Vite, Webpack, SWC
 
   ### 🗄 Databases & ORM
-
   - **SQL:** PostgreSQL, MySQL, MariaDB
   - **NoSQL:** MongoDB, Redis, Firebase Firestore
   - **ORM & Query Builders:** Hibernate, TypeORM, Prisma, Knex.js
 
   ### ☁ DevOps & Cloud
-
   - **Containerization:** Docker, Kubernetes
   - **Cloud Providers:** AWS (EC2, S3, Lambda, RDS), DigitalOcean, Firebase
   - **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
 
   ### 📡 Messaging & Realtime
-
   - **Message Brokers:** RabbitMQ, Apache Kafka
   - **WebSockets:** Socket.IO, WebRTC
   - **Event-Driven Architecture:** CQRS, Event Sourcing
@@ -69,9 +70,7 @@
       Connect
     </h2>
   </summary>
-
-- **LinkedIn:**
-- **Portfolio:**
+  <div align="center">Updating ...</div>
 </details>
 
 <details>
@@ -135,7 +134,5 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
-
-<!-- written by @nvminh162 -->
 <!-- https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif -->
+<!-- written by @nvminh162 -->
