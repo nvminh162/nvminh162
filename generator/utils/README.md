@@ -1,35 +1,36 @@
 <!-- Header -->
 <!--horizontal divider(gradiant)-->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&color=ff69b4&lines=Hi+there,+I'm+Nguyen+Van+Minh;+Click+to+see+details+about+me">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=Hi+there,+I'm+Nguyen+Van+Minh">
 </h3>
 
 <!-- Markdown content here -->
 
 <!-- Footer -->
 <div align="center">
-  <a href="https://github.com/sponsors/nvminh162">
-    <img src="https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4" alt="Sponsor"/>
-  </a>
-  <a href="https://github.com/sponsors/nvminh162">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
-  </a>
-  <a href="https://github.com/nvminh162/nvminh162/blob/main/LICENSE">
-    <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law2&color=ff69b4" alt="Sponsor"/>
-  </a>
-
   </br>
-  </br>
-
-  [![followers][1]][1]
-  [![stars][2]][2]
-  [![forks][3]][3]
-  [![watchers][4]][4]
   
-  [1]: https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black
-  [2]: https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black
-  [3]: https://custom-icon-badges.demolab.com/github/forks/nvminh162/nvminh162?logo=fork&style=social&logoColor=black
-  [4]: https://custom-icon-badges.demolab.com/github/watchers/nvminh162/nvminh162?logo=eye&style=social&logoColor=black
+  [![views][0]][00]
+  [![Sponsor][1]][11]
+  [![LICENSE][2]][22]
+  <!--  -->
+  [![followers][3]][999]
+  [![stars][3]][999]
+  [![forks][4]][999]
+  [![watchers][5]][999]
+  <!-- logo -->
+  [0]: https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4
+  [1]: https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4
+  [2]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law2&color=ff69b4
+  [3]: https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black
+  [4]: https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black
+  [5]: https://custom-icon-badges.demolab.com/github/forks/nvminh162/nvminh162?logo=fork&style=social&logoColor=black
+  [6]: https://custom-icon-badges.demolab.com/github/watchers/nvminh162/nvminh162?logo=eye&style=social&logoColor=black
+  <!-- Link -->
+  [00]: https://github.com/nvminh162/nvminh162
+  [11]: https://github.com/sponsors/nvminh162
+  [22]: https://github.com/nvminh162/nvminh162/blob/main/LICENSE
+  [999]: #
   
 </div>
 
