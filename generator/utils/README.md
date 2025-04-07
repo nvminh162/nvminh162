@@ -11,8 +11,8 @@
   </br>
   
   [![views][0]][00]
-  [![Sponsor][1]][11]
-  [![LICENSE][2]][22]
+  [![LICENSE][1]][11]
+  [![Sponsor][2]][22]
   <!--  -->
   [![followers][3]][999]
   [![stars][3]][999]
@@ -20,16 +20,16 @@
   [![watchers][5]][999]
   <!-- logo -->
   [0]: https://komarev.com/ghpvc/?username=nvminh162&color=ff69b4
-  [1]: https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4
-  [2]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law2&color=ff69b4
+  [1]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law2&color=ff69b4
+  [2]: https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4
   [3]: https://custom-icon-badges.demolab.com/github/followers/nvminh162?logo=person-add&style=social&logoColor=black
   [4]: https://custom-icon-badges.demolab.com/github/stars/nvminh162?logo=star&style=social&logoColor=black
   [5]: https://custom-icon-badges.demolab.com/github/forks/nvminh162/nvminh162?logo=fork&style=social&logoColor=black
   [6]: https://custom-icon-badges.demolab.com/github/watchers/nvminh162/nvminh162?logo=eye&style=social&logoColor=black
   <!-- Link -->
   [00]: https://github.com/nvminh162/nvminh162
-  [11]: https://github.com/sponsors/nvminh162
-  [22]: https://github.com/nvminh162/nvminh162/blob/main/LICENSE
+  [11]: https://github.com/nvminh162/nvminh162/blob/main/LICENSE
+  [22]: https://github.com/sponsors/nvminh162
   [999]: #
   
 </div>
@@ -125,7 +125,29 @@
       Projects
     </h2>
   </summary>
-  <div align="center">Updating ...</div>
+  <!-- <div align="center">Updating ...</div> -->
+    <table align="center">
+    <tr border="none">
+      <!-- Col 1 -->
+      <td width="33.33%" align="center">
+        <a href="https://github.com/nvminh162/nvminh162">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvminh162&repo=nvminh162&theme=dracula" />
+        </a>
+      </td>
+      <!-- Col 2 -->
+      <td width="33.33%" align="center">
+        <a href="https://github.com/nvminh162/tourx-app">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvminh162&repo=tourx-app&theme=dracula" />
+        </a>
+      </td>
+      <!-- Col 3 -->
+      <td width="33.33%" align="center">
+        <a href="https://github.com/NguyenNguyen0/HuongBien">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details>
