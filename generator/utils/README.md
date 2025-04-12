@@ -1,8 +1,37 @@
 <!-- Header -->
-<!--horizontal divider(gradiant)-->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=Hi+there,+I'm+Nguyen+Van+Minh">
-</h3>
+
+<!-- I. About -->
+<details align=center>
+  <summary>
+    <div align=center>
+      <img height="200" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
+    </div>
+    <div align=center>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
+    </div>
+  </summary>
+<div align="left">
+
+  ```js
+  /**
+  * Represents me.
+  * @constructor
+  * @param {string} city - Ho Chi Minh.
+  * @param {string} languagues - Vietnamese, English.
+  * @param {string} jobTitle - Fullstack Developer.
+  * @param {string} specialization - Building web applications.
+  * @param {string} interests - AI, writing & problem-solving.
+  * @param {string} hobbies - Climbing, reading, triathlons & playing music.
+  * @param {string} education - Industrial University of Ho Chi Minh City: IUH.
+  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+  * @param {string} stength - Resolute.
+  * @param {string} weakness - Shyness.
+  * @throws {Punch} To any and all bugs.
+  * @returns {Object} Austinae.
+  */
+  ```
+</div>
+</details>
 
 <!-- Markdown content here -->
 
@@ -34,26 +63,17 @@
   
 </div>
 
-<!-- <details>
-  <summary>
-    <h2>
-      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/about_me.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
-      About
-    </h2>
-  </summary>
-  <div align="center">Updating ...</div>
-</details> -->
-
+<!-- II. Tech Stack -->
 <details>
   <summary>
     <h2>
       <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/Programming_Languages.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
-      TechStack
+      Tech Stack
     </h2>
   </summary>
   <!-- Programming Languages -->
   <h3 align="left">
-    <i style="margin-left: 50px;">💻 Programming Languages</i>
+    <i style="margin-left: 100px;">💻 Programming Languages</i>
   </h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -74,7 +94,7 @@
   </p>
   <!-- Frontend -->
   <h3 align="left">
-    <i style="margin-left: 50px;">🎨 Frontend Development</i>
+    <i style="margin-left: 100px;">🎨 Frontend Development</i>
   </h3>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -102,9 +122,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
   </p>
-  <!-- Frontend -->
+  <!-- Backend -->
   <h3 align="left">
-    <i style="margin-left: 50px;">🖥 Backend Development</i>
+    <i style="margin-left: 100px;">🖥 Backend Development</i>
   </h3>
   <p align="center">
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -125,7 +145,7 @@
   </p>
   <!-- Mobile -->
   <h3 align="left">
-    <i style="margin-left: 50px;">📱 Mobile App Development</i>
+    <i style="margin-left: 100px;">📱 Mobile App Development</i>
   </h3>
   <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -143,7 +163,7 @@
   </p>
   <!-- Database -->
   <h3 align="left">
-    <i style="margin-left: 50px;">🗄 Database</i>
+    <i style="margin-left: 100px;">🗄 Database</i>
   </h3>
   <p align="center">
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -173,7 +193,7 @@
   </p>
   <!-- DevOps -->
   <h3 align="left">
-    <i style="margin-left: 50px;">☁ DevOps & Cloud</i>
+    <i style="margin-left: 100px;">☁ DevOps & Cloud</i>
   </h3>
   <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -191,7 +211,7 @@
   </p>
   <!-- (BaaS) -->
   <h3 align="left">
-    <i style="margin-left: 50px;">🛠️ Backend as a Service (BaaS)</i>
+    <i style="margin-left: 100px;">🛠️ Backend as a Service (BaaS)</i>
   </h3>
   <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
@@ -200,7 +220,7 @@
   </p>
   <!-- Software -->
   <h3 align="left">
-    <i style="margin-left: 50px;">🛡️ Software</i>
+    <i style="margin-left: 100px;">🛡️ Software</i>
   </h3>
   <p align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -221,7 +241,7 @@
   </p>
   <!-- Other -->
   <h3 align="left">
-    <i style="margin-left: 50px;">⚙️ Other</i>
+    <i style="margin-left: 100px;">⚙️ Other</i>
   </h3>
   <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -233,6 +253,7 @@
   </p>
 </details>
 
+<!-- III. Connect -->
 <details>
   <summary>
     <h2>
@@ -286,6 +307,7 @@
   </p>
 </details>
 
+<!-- IV. Stats -->
 <details>
   <summary>
     <h2>
@@ -313,6 +335,7 @@
   </div>
 </details>
 
+<!-- V. Projects -->
 <details>
   <summary>
     <h2>
@@ -324,19 +347,13 @@
     <table align="center">
     <tr border="none">
       <!-- Col 1 -->
-      <td width="33.33%" align="center">
-        <a href="https://github.com/nvminh162/nvminh162">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvminh162&repo=nvminh162&theme=dracula" />
-        </a>
-      </td>
-      <!-- Col 2 -->
-      <td width="33.33%" align="center">
+      <td width="50%" align="center">
         <a href="https://github.com/nvminh162/tourx-app">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvminh162&repo=tourx-app&theme=dracula" />
         </a>
       </td>
-      <!-- Col 3 -->
-      <td width="33.33%" align="center">
+      <!-- Col 2 -->
+      <td width="50%" align="center">
         <a href="https://github.com/NguyenNguyen0/HuongBien">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=dracula" />
         </a>
@@ -345,6 +362,7 @@
   </table>
 </details>
 
+<!-- VI. Quotes -->
 <details>
   <summary>
     <h2>
@@ -366,7 +384,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&color=ff69b4&lines=Thanks+for+visiting!+✌️;+Shot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+">
 </h3>
 
-<!--horizontal divider(gradiant)-->
+<!-- VII. Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif -->
