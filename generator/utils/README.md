@@ -3,12 +3,14 @@
 <!-- I. About -->
 <details align=center>
   <summary>
-    <div align=center>
-      <img height="200" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
-    </div>
-    <div align=center>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
-    </div>
+    <a href="#">
+      <div align=center>
+        <img height="200" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
+      </div>
+      <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
+      </div>
+    </a>
   </summary>
 <div align="left">
 
@@ -17,11 +19,11 @@
   * Represents me.
   * @constructor
   * @param {string} city - Ho Chi Minh.
-  * @param {string} languagues - Vietnamese, English.
   * @param {string} jobTitle - Fullstack Developer.
+  * @param {string} languagues - Vietnamese, English.
   * @param {string} specialization - Building web applications.
   * @param {string} interests - AI, writing & problem-solving.
-  * @param {string} hobbies - Climbing, reading, triathlons & playing music.
+  * @param {string} hobbies - Gym, Learning, Coffeee & Photograph.
   * @param {string} education - Industrial University of Ho Chi Minh City: IUH.
   * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
   * @param {string} stength - Resolute.
