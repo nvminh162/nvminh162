@@ -9,6 +9,9 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
       </div>
     </a>
+    <h3>
+      See more
+    </h3>
   </summary>
 <div align="left">
 
