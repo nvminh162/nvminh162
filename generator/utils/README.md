@@ -1,39 +1,50 @@
 <!-- Header -->
-
-<!-- I. About -->
 <details align=center>
   <summary>
     <a href="#">
       <div align=center>
-        <img height="200" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
+        <img height="150" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
       </div>
       <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
       </div>
     </a>
-    <h3>
-      See more
-    </h3>
+    <strong>See more</strong>
   </summary>
 <div align="left">
 
-  ```js
+  ```java
   /**
   * Represents me.
-  * @constructor
-  * @param {string} city - Ho Chi Minh.
-  * @param {string} jobTitle - Fullstack Developer.
-  * @param {string} languagues - Vietnamese, English.
-  * @param {string} specialization - Building web applications.
-  * @param {string} interests - AI, writing & problem-solving.
-  * @param {string} hobbies - Gym, Learning, Coffeee & Photograph.
-  * @param {string} education - Industrial University of Ho Chi Minh City: IUH.
-  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
-  * @param {string} stength - Resolute.
-  * @param {string} weakness - Shyness.
-  * @throws {Punch} To any and all bugs.
-  * @returns {Object} Austinae.
+  *
+  * @author nvminh162
+  * @version 16022004
   */
+  public class AboutMe {
+      private String city = "Ho Chi Minh";
+      private String jobTitle = "Fullstack Developer";
+      private String languages = "Vietnamese, English";
+      private String specialization = "Building applications";
+      private String interests = "AI, code & problem-solving";
+      private String hobbies = "Gym, Coffee & Photography";
+      private String education = "Industrial University of Ho Chi Minh City: IUH";
+
+      /**
+      * Throws a punch to any and all bugs.
+      */
+      public void throwPunch() {
+          System.out.println("Bug destroyed! 👊");
+      }
+
+      /**
+      * Returns a representation of nvminh162.
+      * 
+      * @return an instance of AboutMe containing personal information.
+      */
+      public AboutMe getProfile() {
+          return this;
+      }
+  }
   ```
 </div>
 </details>
@@ -65,254 +76,47 @@
   [11]: https://github.com/nvminh162/nvminh162/blob/main/LICENSE
   [22]: https://github.com/sponsors/nvminh162
   [999]: #
-  
 </div>
 
-<!-- II. Tech Stack -->
-<details>
-  <summary>
-    <h2>
-      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/Programming_Languages.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
-      Tech Stack
-    </h2>
-  </summary>
-  <!-- Programming Languages -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">💻 Programming Languages</i>
-  </h3>
-  <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- Frontend -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">🎨 Frontend Development</i>
-  </h3>
-  <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- Backend -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">🖥 Backend Development</i>
-  </h3>
-  <p align="center">
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://images.seeklogo.com/logo-png/44/3/next-js-logo-png_seeklogo-449824.png" alt="nestjs" width="40" height="40"/>
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- Mobile -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">📱 Mobile App Development</i>
-  </h3>
-  <p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- Database -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">🗄 Database</i>
-  </h3>
-  <p align="center">
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- DevOps -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">☁ DevOps & Cloud</i>
-  </h3>
-  <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- (BaaS) -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">🛠️ Backend as a Service (BaaS)</i>
-  </h3>
-  <p align="center">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-  </p>
-  <!-- Software -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">🛡️ Software</i>
-  </h3>
-  <p align="center">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-  </p>
-  <!-- Other -->
-  <h3 align="left">
-    <i style="margin-left: 100px;">⚙️ Other</i>
-  </h3>
-  <p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-  </p>
-</details>
+### 💻 `Languages`
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=coffeescript&logoColor=FF9A00&logoSize=auto&link=https%3A%2F%2Fwww.java.com%2F)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=23F7DF1E&logoSize=auto&link=https%3A%2F%2Fwww.javascript.com%2F)
+![TypeScript](https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=233178C6&logoSize=auto&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB&link=https%3A%2F%2Fwww.python.org%2F)
+![Swift](https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift&logoColor=23F05138&logoSize=auto&link=https%3A%2F%2Fwww.swift.org%2F)
 
-<!-- III. Connect -->
-<details>
-  <summary>
-    <h2>
-      <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/handshake.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
-      Connect
-    </h2>
-  </summary>
-  <p align="center">
-    <a href="https://fb.com/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://x.com/nvminh16" target="blank">
-      <img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/twitter_x-logo-freelogovectors.net_.png" alt="nvminh16" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://codesandbox.com/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://www.topcoder.com/members/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-    <a href="https://nvminh162.github.io/nvminh162.dev" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nvminh162.github.io/nvminh162.dev" height="30" width="40" />
-    </a>
-    <a href="https://codepen.io/nvminh162" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nvminh162" height="30" width="40" />
-    </a>
-  </p>
-</details>
+### 🎨 `Frontend`
+![nextdotjs](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=%23FFF&logoSize=auto&link=https%3A%2F%2Fnextjs.org%2F)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&link=https%3A%2F%2Freact.dev%2F)
+![vuedotjs](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&logoSize=auto&link=https%3A%2F%2Fvuejs.org%2F)
+![angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=red&link=https%3A%2F%2Fangular.dev%2F)
+![tailwindcss](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&link=https%3A%2F%2Ftailwindcss.com%2F)
+![bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&link=https%3A%2F%2Fgetbootstrap.com%2F)
+![html5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26&link=https%3A%2F%2Fhtml5up.net%2F)
+![css3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6&link=https%3A%2F%2Fhtml5up.net%2F)
 
-<!-- IV. Stats -->
+### 🖥 `Backend`
+![Spring](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=%236DB33F&logoSize=auto&link=https%3A%2F%2Fspring.io%2F)
+![nodedotjs](https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&link=https%3A%2F%2Fnodejs.org)
+![express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=%23FFF&logoSize=auto&link=https%3A%2F%2Fexpressjs.com%2F)
+![nestjs](https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&logoSize=auto&link=https%3A%2F%2Fnestjs.com%2F)
+![graphql](https://img.shields.io/badge/Graphql-20232A?style=for-the-badge&logo=graphql&logoColor=%23E10098&logoSize=auto&link=https%3A%2F%2Fgraphql.org%2F)
+![firebase](https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&link=https%3A%2F%2Ffirebase.google.com%2F)
+
+
+### 🗄 `Database`
+![mongodb](https://img.shields.io/badge/Mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=%2347A248&logoSize=auto&link=https%3A%2F%2Fwww.mongodb.com%2F)
+![mysql](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=auto&link=https%3A%2F%2Fwww.mysql.com%2F)
+![postgresql](https://img.shields.io/badge/Postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=%234169E1&logoSize=auto&link=https%3A%2F%2Fwww.postgresql.org%2F)
+![mssql](https://img.shields.io/badge/mssql-20232A?style=for-the-badge&logo=sqlite&logoColor=20232A&logoSize=auto&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server%2Fsql-server-downloads)
+![neo4j](https://img.shields.io/badge/neo4j-20232A?style=for-the-badge&logo=neo4j&logoColor=%234581C3&logoSize=auto&link=https%3A%2F%2Fneo4j.com%2F)
+
+
+### ☁ `DevOps & Cloud`
+![aws](https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=wwe&logoColor=%23FF9900&logoSize=auto&link=https%3A%2F%2Faws.amazon.com%2F)
+![docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fwww.docker.com%2F)
+![googlecloud](https://img.shields.io/badge/google%20cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fcloud.google.com%2F)
+
 <details>
   <summary>
     <h2>
@@ -340,7 +144,6 @@
   </div>
 </details>
 
-<!-- V. Projects -->
 <details>
   <summary>
     <h2>
@@ -367,7 +170,6 @@
   </table>
 </details>
 
-<!-- VI. Quotes -->
 <details>
   <summary>
     <h2>
@@ -389,7 +191,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&color=ff69b4&lines=Thanks+for+visiting!+✌️;+Shot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+">
 </h3>
 
-<!-- VII. Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif -->
