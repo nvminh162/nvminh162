@@ -133,7 +133,7 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 ![neo4j](https://img.shields.io/badge/neo4j-20232A?style=for-the-badge&logo=neo4j&logoColor=%234581C3&logoSize=auto&link=https%3A%2F%2Fneo4j.com%2F)
 
 
-### ☁ \`DevOps & \`
+### ☁ \`DevOps & Cloud\`
 ![aws](https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=wwe&logoColor=%23FF9900&logoSize=auto&link=https%3A%2F%2Faws.amazon.com%2F)
 ![docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fwww.docker.com%2F)
 ![googlecloud](https://img.shields.io/badge/google%20cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fcloud.google.com%2F)
@@ -141,22 +141,25 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
   <summary>
-    <h2>
-      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-      Stats
-    </h2>
-  </summary> 
+
+  ## <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/stats.gif?raw=true" width="30" height="30" style="margin-right: 10px;"> Stats
+
+  </summary>
+
+  <div align="center">
+    <img src="https://leetcard.jacoblin.cool/nvminh162?theme=forest&font=Nova%20Square&ext=heatmap" title="leetcode"/>
+  </div>
   <table align="center">
     <tr border="none">
-      <!-- Stats 1 -->
+      <!-- Stats left -->
       <td width="50%" align="center">
         </br>
         <img src="https://streak-stats.demolab.com?user=nvminh162&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHubStreak" title="activityContribution"/>
         <img src="https://github-readme-stats.vercel.app/api?username=nvminh162&show_icons=true&theme=dracula" alt="Githubstat" title="GithubStat" height="192px"/>
       </td>
-      <!-- Stats 2 -->
+      <!-- Stats right -->
       <td width="50%" align="center">
-          <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nvminh162&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+        <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nvminh162&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
       </td>
     </tr>
   </table>
@@ -168,10 +171,9 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 
 <details>
   <summary>
-    <h2>
-      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;">
-      Projects
-    </h2>
+
+  ## <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/project.webp?raw=true" width="30" height="30" style="margin-right: 10px;"> Projects
+
   </summary>
   <!-- <div align="center">Updating ...</div> -->
     <table align="center">
@@ -194,10 +196,9 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 
 <details>
   <summary>
-    <h2>
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="30" height="30" style="margin-right: 10px;">
-      Quotes
-    </h2>
+
+  ## <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/quotes.gif?raw=true" width="30" height="30" style="margin-right: 10px;"> Quotes
+
   </summary> 
   <div align="center">
 
