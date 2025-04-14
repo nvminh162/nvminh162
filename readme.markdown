@@ -1,8 +1,10 @@
 
-<div align="center">
-  <img height="100" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=50&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer"> 
+<p align=center>
+  <a href="#">
+    <img height="100" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
+    </br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=50&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
+  </a>
 
   <a href="https://www.facebook.com/nvminh162" target="_blank">  
     <img src="https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook" alt="facebook" />  
@@ -28,7 +30,7 @@
   <a href="https://locket.cam/nvminh162" target="_blank">  
     <img src="https://img.shields.io/badge/Locket-%23B58A2E?style=for-the-badge&logo=iheartradio&logoColor=%B58A2E" alt="locket" />  
   </a>  
-</div>  
+</p>  
 
 <details align=center>
   <summary>
