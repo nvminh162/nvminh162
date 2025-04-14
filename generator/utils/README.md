@@ -1,17 +1,24 @@
 <!-- Header -->
+<div align="center">
+  <img height="150" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=50&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
+
+  ![facebook](https://img.shields.io/badge/Facebook-%230866FF?style=flat-square&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fnvminh162)
+  ![instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=flat-square&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fnvminh162)
+  ![zalo](https://img.shields.io/badge/Zalo-%230068FF?style=flat-square&logo=zalo&link=https%3A%2F%2Fzalo.me%2F0353999798)
+  ![telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=%23FFF&link=https%3A%2F%2Ft.me%2Fnvminh162)
+  ![tiktok](https://img.shields.io/badge/Tiktok-%23000000?style=flat-square&logo=tiktok&logoColor=%23FFF&link=https%3A%2F%2Fwww.tiktok.com%2F%40nvminh162)
+  ![x](https://img.shields.io/badge/X-%23000000?style=flat-square&logo=x&link=https%3A%2F%2Fx.com%2Fnvminh16)
+  ![whatsapp](https://img.shields.io/badge/Whatsapp-%2325D366?style=flat-square&logo=whatsapp&logoColor=%23FFF&link=https%3A%2F%2Fwa.me%2F84353999798)
+  ![locket](https://img.shields.io/badge/Locket-%23B58A2E?style=flat-square&logo=iheartradio&logoColor=%23FFF&link=https%3A%2F%2Flocket.cam%2Fnvminh162)
+</div>
+
 <details align=center>
   <summary>
-    <a href="#">
-      <div align=center>
-        <img height="150" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
-      </div>
-      <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=70&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">
-      </div>
-    </a>
     <strong>See more</strong>
   </summary>
-<div align="left">
+  <div align="left">
 
   ```java
   /**
@@ -46,7 +53,7 @@
       }
   }
   ```
-</div>
+  </div>
 </details>
 
 <!-- Markdown content here -->
@@ -117,6 +124,7 @@
 ![docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fwww.docker.com%2F)
 ![googlecloud](https://img.shields.io/badge/google%20cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fcloud.google.com%2F)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
   <summary>
     <h2>
@@ -190,8 +198,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1000&color=ff69b4&lines=Thanks+for+visiting!+✌️;+Shot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+">
 </h3>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif -->
 <!-- written by @nvminh162 -->
