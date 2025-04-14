@@ -15,10 +15,7 @@
   </a>  
   <a href="https://t.me/nvminh162" target="_blank">  
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="telegram" />  
-    </a>  
-  <a href="https://www.tiktok.com/@nvminh162" target="_blank">  
-    <img src="https://img.shields.io/badge/Tiktok-%23000000?style=for-the-badge&logo=tiktok&logoColor=%000000" alt="tiktok" />  
-  </a>  
+    </a>
   <a href="https://x.com/nvminh16" target="_blank">  
     <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x" alt="x" />  
   </a>  
