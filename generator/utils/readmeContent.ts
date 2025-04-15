@@ -113,7 +113,7 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
   <a href="mailto:nvminh162@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/nvminh162%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff&label=Email&labelColor=%23EA4335" alt="Email" />
   </a>
-  <a href="tel:+84353999798">
+  <a href="#">
     <img src="https://img.shields.io/badge/0353.999.798-%234495D1?style=for-the-badge&logo=linphone&logoColor=%23fff&label=Phone%20%2B84%20(VN)&labelColor=%234495D1" alt="Phone" />
   </a>
   </br>
