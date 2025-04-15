@@ -90,8 +90,8 @@
 ### 🖥 Backend
 ![Spring](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=%236DB33F&logoSize=auto&link=https%3A%2F%2Fspring.io%2F)
 ![nodedotjs](https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&link=https%3A%2F%2Fnodejs.org)
-![express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=%23FFF&logoSize=auto&link=https%3A%2F%2Fexpressjs.com%2F)
 ![nestjs](https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&logoSize=auto&link=https%3A%2F%2Fnestjs.com%2F)
+![express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=%23FFF&logoSize=auto&link=https%3A%2F%2Fexpressjs.com%2F)
 ![graphql](https://img.shields.io/badge/Graphql-20232A?style=for-the-badge&logo=graphql&logoColor=%23E10098&logoSize=auto&link=https%3A%2F%2Fgraphql.org%2F)
 ![firebase](https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&link=https%3A%2F%2Ffirebase.google.com%2F)
 
@@ -103,26 +103,12 @@
 ![neo4j](https://img.shields.io/badge/neo4j-20232A?style=for-the-badge&logo=neo4j&logoColor=%234581C3&logoSize=auto&link=https%3A%2F%2Fneo4j.com%2F)
 
 ### ☁ DevOps & Cloud
-![aws](https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=wwe&logoColor=%23FF9900&logoSize=auto&link=https%3A%2F%2Faws.amazon.com%2F)
 ![docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fwww.docker.com%2F)
+![aws](https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=wwe&logoColor=%23FF9900&logoSize=auto&link=https%3A%2F%2Faws.amazon.com%2F)
 ![googlecloud](https://img.shields.io/badge/google%20cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fcloud.google.com%2F)
 
-## <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/handshake.gif?raw=true" width="40" height="30" style="margin-right: 10px;"> Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/nvminh162" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231769AA?style=for-the-badge&logo=inspire&logoColor=%23fff" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nvminh162" target="_blank">
-    <img src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/nvminh162" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=%23fff" alt="LeetCode" />
-  </a>
-  <a href="https://codesandbox.io/u/nvminh162" target="_blank">
-    <img src="https://img.shields.io/badge/Codesandbox-%23151515?style=for-the-badge&logo=codesandbox" alt="CodeSandbox" />
-  </a>
-  </br>
-  </br>
+### <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/handshake.gif?raw=true" width="40" height="30" style="margin-right: 10px;"> Connect: `@nvminh162`
+<p align="left">
   <a href="mailto:nvminh162@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/nvminh162%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff&label=Email&labelColor=%23EA4335" alt="Email" />
   </a>
@@ -137,12 +123,6 @@
   <a href="https://www.instagram.com/nvminh162" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
-  <a href="https://zalo.me/0353999798" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-%230068FF?style=for-the-badge&logo=zalo" alt="Zalo" />
-  </a>
-  <a href="https://t.me/nvminh162" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram" />
-  </a>
   <a href="https://x.com/nvminh16" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x" alt="X" />
   </a>
@@ -154,6 +134,26 @@
   </a>
   <a href="https://www.tiktok.com/@nvminh162" target="_blank">
     <img src="https://img.shields.io/badge/Tiktok-%23000000?style=for-the-badge&logo=tiktok" alt="TikTok" />
+  </a>
+  </br>
+  </br>
+  <a href="https://www.linkedin.com/in/nvminh162" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231769AA?style=for-the-badge&logo=inspire&logoColor=%23fff" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/nvminh162" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram" />
+  </a>
+  <a href="https://zalo.me/0353999798" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-%230068FF?style=for-the-badge&logo=zalo" alt="Zalo" />
+  </a>
+  <a href="https://github.com/nvminh162" target="_blank">
+    <img src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/nvminh162" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=%23fff" alt="LeetCode" />
+  </a>
+  <a href="https://codesandbox.io/u/nvminh162" target="_blank">
+    <img src="https://img.shields.io/badge/Codesandbox-%23151515?style=for-the-badge&logo=codesandbox" alt="CodeSandbox" />
   </a>
 </p>
 
@@ -199,15 +199,21 @@
     <table align="center">
     <tr border="none">
       <!-- Col 1 -->
-      <td width="50%" align="center">
+      <td width="33.33%" align="center">
         <a href="https://github.com/nvminh162/tourx-app">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvminh162&repo=tourx-app&theme=dracula" />
         </a>
       </td>
       <!-- Col 2 -->
-      <td width="50%" align="center">
+      <td width="33.34%" align="center">
         <a href="https://github.com/NguyenNguyen0/HuongBien">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=dracula" />
+        </a>
+      </td>
+      <!-- Col 3 -->
+      <td width="33.33%" align="center">
+        <a href="https://github.com/nvminh162/nvminh162.dev">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvminh162&repo=nvminh162.dev&theme=dracula" />
         </a>
       </td>
     </tr>
@@ -228,5 +234,4 @@
     <img src="https://img.shields.io/badge/by%20%40nvminh162-%23000?style=for-the-badge&logo=coursera&logoColor=%23fff&link=https%3A%2F%2Ft.me%2Fnvminh162" alt="Locket" />
   </a>  
 </p>
-<!-- https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif -->
 <!-- by @nvminh162 -->
