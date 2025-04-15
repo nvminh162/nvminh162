@@ -15,7 +15,7 @@
   <table align="center">
     <tr border="none">
   <!-- Introduce left -->
-  <td width="50%" align="left">
+  <td width="50%" align="center">
 
   ```
   🏠 City: Go Vap, Ho Chi Minh
@@ -34,8 +34,8 @@
   ```
   </td>
   <!-- Introduce right -->
-  <td width="50%" align="left">
-    <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162_coding.gif?raw=true" alt="nvminh162 coding" />
+  <td width="50%" align="center">
+    <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162_coding.gif?raw=true" alt="nvminh162 coding" style="width: 100%;" />
   </td>
       </tr>
   </table>
