@@ -124,7 +124,7 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
   <a href="https://www.instagram.com/nvminh162" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
-  <a href="https://x.com/nvminh16" target="_blank">
+  <a href="https://x.com/nvminh162" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x" alt="X" />
   </a>
   <a href="https://wa.me/84353999798" target="_blank">
