@@ -17,7 +17,7 @@ export const readmeHeader = outdent({ trimLeadingNewline: false })`
   <table align="center">
     <tr border="none">
   <!-- Introduce left -->
-  <td width="50%" align="center">
+  <td width="50%" align="left">
 
   \`\`\`
   🏠 City: Go Vap, Ho Chi Minh
