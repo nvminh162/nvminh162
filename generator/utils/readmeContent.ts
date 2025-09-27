@@ -2,10 +2,10 @@ import { outdent } from 'outdent';
 
 export const readmeHeader = outdent({ trimLeadingNewline: false })`
 <p align=center>
-  <img height="100" src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
+  <img height="100" src="https://github.com/nvminh162/nvminh162/blob/master/generator/utils/resources/nvminh162.png?raw=true" alt="nvminh162">
   </br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=50&duration=2000&color=ff69b4&lines=I'm+Nguyen+Van+Minh;+I'm+Paul+Nguyen;+Fullstack+Developer">  
-</p>  
+</p>
 
 <details align=center>
   <summary>
@@ -32,17 +32,17 @@ export const readmeHeader = outdent({ trimLeadingNewline: false })`
 
   ☕ Hobbies: Gym, Coffee & Photography
 
-  🎓 Education: Industrial University of Ho Chi Minh City (IUH)
+  🎓 Education: Industrial University of Ho Chi Minh City (IUH) - GPA 3.3+
   \`\`\`
   </td>
   <!-- Introduce right -->
   <td width="50%" align="center">
-    <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/nvminh162_coding.gif?raw=true" alt="nvminh162 coding" style="width: 100%;" />
+    <img src="https://github.com/nvminh162/nvminh162/blob/master/generator/utils/resources/nvminh162_coding.gif?raw=true" alt="nvminh162 coding" style="width: 100%;" />
   </td>
       </tr>
   </table>
 </details>
-`;	
+`;
 
 export const readmeFooter = outdent({ trimLeadingNewline: false })`
 <div align="center">
@@ -66,12 +66,12 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
   [6]: https://custom-icon-badges.demolab.com/github/watchers/nvminh162/nvminh162?logo=eye&style=social&logoColor=black
   <!-- Link -->
   [00]: https://github.com/nvminh162/nvminh162
-  [11]: https://github.com/nvminh162/nvminh162/blob/main/LICENSE
+  [11]: https://github.com/nvminh162/nvminh162/blob/master/LICENSE
   [22]: https://github.com/sponsors/nvminh162
   [999]: #
 </div>
 
-### <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/Programming_Languages.gif?raw=true" width="30" height="30" style="margin-right: 10px;"> Languages
+### <img src="https://github.com/nvminh162/nvminh162/blob/master/generator/utils/resources/Programming_Languages.gif?raw=true" width="30" height="30" style="margin-right: 10px;"> Languages
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=coffeescript&logoColor=FF9A00&logoSize=auto&link=https%3A%2F%2Fwww.java.com%2F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=23F7DF1E&logoSize=auto&link=https%3A%2F%2Fwww.javascript.com%2F)
 ![TypeScript](https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=233178C6&logoSize=auto&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
@@ -108,7 +108,7 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 ![aws](https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=wwe&logoColor=%23FF9900&logoSize=auto&link=https%3A%2F%2Faws.amazon.com%2F)
 ![googlecloud](https://img.shields.io/badge/google%20cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=%232496ED&logoSize=auto&link=https%3A%2F%2Fcloud.google.com%2F)
 
-### <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/handshake.gif?raw=true" width="40" height="30" style="margin-right: 10px;"> Connect: \`@nvminh162\`
+### <img src="https://github.com/nvminh162/nvminh162/blob/master/generator/utils/resources/handshake.gif?raw=true" width="40" height="30" style="margin-right: 10px;"> Connect: \`@nvminh162\`
 <p align="left">
   <a href="mailto:nvminh162@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/nvminh162%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff&label=Email&labelColor=%23EA4335" alt="Email" />
@@ -163,7 +163,7 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 <details>
   <summary>
 
-  ## <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/stats.gif?raw=true" width="30" height="30" style="margin-right: 10px;"> Stats
+  ## <img src="https://github.com/nvminh162/nvminh162/blob/master/generator/utils/resources/stats.gif?raw=true" width="30" height="30" style="margin-right: 10px;"> Stats
 
   </summary>
 
@@ -193,7 +193,7 @@ export const readmeFooter = outdent({ trimLeadingNewline: false })`
 <details>
   <summary>
 
-  ## <img src="https://github.com/nvminh162/nvminh162/blob/main/generator/utils/resources/project.webp?raw=true" width="30" height="30" style="margin-right: 10px;"> Projects
+  ## <img src="https://github.com/nvminh162/nvminh162/blob/master/generator/utils/resources/project.webp?raw=true" width="30" height="30" style="margin-right: 10px;"> Projects
 
   </summary>
   <!-- <div align="center">Updating ...</div> -->
